@@ -14,7 +14,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity {
 
     private static final String BASE_URL = "https://api.openweathermap.org/data/2.5/"; //URL base de l'app d'OpenWeather
-    private static final String API_KEY = "fe0a843a5afb9263e58ee4ca060273f5"; // Reemplaça amb la teva Key de OpenWeather
+    private static final String API_KEY = "......................"; // Reemplaça amb la teva Key de OpenWeather
 
     private TextView temperatureTextView;
 
